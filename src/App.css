@@ -1,0 +1,24 @@
+.sidebar{
+  display: flex;
+  min-height: 800px;
+}
+.content{
+  width: 100%;
+}
+.postcard{
+  margin: 20px;
+}
+.postform{
+  margin: 20px;
+  width: 500px;
+}
+.message{
+  text-align: center;
+}
+.fetchbtn{
+  text-align: center;
+  margin: 5px 570px;
+  width: 125px;
+
+  
+}
